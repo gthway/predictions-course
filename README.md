@@ -1,0 +1,1 @@
+Some stuff I did in the course "Predictions and Predictability" at UHH.
