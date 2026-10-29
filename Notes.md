@@ -81,3 +81,23 @@ Initial conditions usually for atmosphere, ocean, sea ice.
 Homework: 
 
 Think about a first idea for seasonal predictions. For statistical prediction, can do anything between 1 month and 10 years. But for dynamical prediction, has to be between 1 month and 6 months.
+
+# Lecture 3
+
+Climate Predictability - more intellectually engaging than technical
+
+Slide with predictability graph --> ocean high in longer times but low in shorter times, this is because it's relative. It doesn't mean that ocean is not predictable. Ocean is actually predictable. But what we see in the graph is that the realized predictability comes from the atmosphere because the signals are much stronger.
+
+Persistence forecast: how long does a climate state "persist" or stay, in what we are looking at, into the future? 
+
+Regular behaviour or no change in the signal at all: carries predictability
+
+Autocorrelation: correlation between time series --> shift the original time series by one unit of time (lag) and then compare.
+
+In this field, correlation 0.3 or 0.4 is good enough.
+
+Predictability and realized predictability: we may have a hypothetically high predictability from the ocean doesn't mean we have a high realized predictability when we use our models.
+
+How quickly does the initial state separate from the predicted thing?
+
+Red vs white noise. Red = tougher reference to beat, contains a little bit of memory.
