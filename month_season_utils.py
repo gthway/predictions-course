@@ -20,7 +20,7 @@ def month_name_to_number(month_name):
             'oct': 10,
             'nov': 11,
             'dec': 12
-        }[month_name]
+        }[month_name.strip()[:3].lower()]
     return month_number 
 
 def month_in_season(month):
